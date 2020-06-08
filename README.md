@@ -1,2 +1,6 @@
-# DenkAlert1.5
-Nueva version de DenkAlert corrigiendo muchos errores de la version anterior!
+# DenkerAlert1.5!
+Nueva versión de **DenkAlert**
+
+documentacion en:  https://denkerframework2.000webhostapp.com/Libraries/DenkAlert
+
+©2020-DouglasAndrésMorenoReinaldo.
